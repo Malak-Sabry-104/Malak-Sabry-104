@@ -9,11 +9,11 @@
 
 ### 👩‍💻 Who I Am
 
-- 🔭 Currently building: [**Upvotia**] – a platform to upvote product ideas and features  
+- 🔭 Currently building: **Upvotia** – a platform to upvote product ideas and features  
 - 🎯 Focused on: **Modern, accessible, and engaging frontend development**  
 - 🎨 Passionate about crafting **simple, bold, and enjoyable interfaces**  
 - 👩‍🚀 Exploring backend development to become a **full-stack developer**  
-- 🌍 Personal website & portfolio: [itsmalak.xyz](https://itsmalak.xyz/)  
+- 🌍 Personal portfolio: [itsmalak.xyz](https://itsmalak.xyz/)  
 - 📫 Reach me at: **malaksabry367@gmail.com**  
 - 📄 Résumé: [View PDF](https://drive.google.com/file/d/1MHZLLCiAy7w6XeTrDqtI88JbeRmvTH9r/view?usp=drive_link)  
 
