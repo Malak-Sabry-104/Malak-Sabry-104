@@ -1,9 +1,5 @@
 <h1 align="center">💫 About Me</h1>
-<h3 align="center">Frontend Developer • UI Enthusiast • Focused on Building Clean & Playful Web Experiences 🇪🇬</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malak-sabry-104&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+<h3 align="center">Frontend Developer • Focused on Building Clean & Playful Web Experiences 🇪🇬</h3>
 
 ---
 
@@ -21,7 +17,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Sabry-blue?style=flat&logo=linkedin)](https://linkedin.com/in/malak-sabry-mohamed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Sabry-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/malak-sabry-muhammad440221)
 
 ---
 
