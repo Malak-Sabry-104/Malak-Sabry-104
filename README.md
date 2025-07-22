@@ -9,7 +9,7 @@
 
 ### 👩‍💻 Who I Am
 
-- 🔭 Currently building: [**Upvotia**](https://github.com/Malak-Sabry-104/Upvotia) – a platform to upvote product ideas and features  
+- 🔭 Currently building: [**Upvotia**] – a platform to upvote product ideas and features  
 - 🎯 Focused on: **Modern, accessible, and engaging frontend development**  
 - 🎨 Passionate about crafting **simple, bold, and enjoyable interfaces**  
 - 👩‍🚀 Exploring backend development to become a **full-stack developer**  
@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=malak-sabry-104&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
